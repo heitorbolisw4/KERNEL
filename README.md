@@ -10,6 +10,8 @@ O Kernel atua como o núcleo estratégico de negócios digitais, transformando i
 Ele se baseia em uma estrutura de três camadas — Presence, Relationship e Efficiency — que refletem as etapas essenciais de maturidade digital de uma empresa.
 
 
+![Prévia do Projeto](./img/kernelmodules.png)
+
 🎯 Valor Entregue
 
 O Método Kernel foi desenhado para o Delegador Premium Sobrecarregado — o empreendedor que quer escalar seu negócio sem perder tempo ou controle.
